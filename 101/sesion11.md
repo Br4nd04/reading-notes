@@ -20,3 +20,5 @@ El método que se utiliza para cambiar el color de fondo de un elemento en el DO
 let miElemento = document.getElementById("miId");
 miElemento.style.backgroundColor = "red";
 Este código selecciona el elemento con el ID miId y cambia su color de fondo a rojo.
+
+[Inicio](https://github.com/Br4nd04/reading-notes.git)
