@@ -12,8 +12,8 @@ Hola, soy Brandon un desarrollador apasionado por la tecnología y la innovació
 7. [Clase7](https://br4nd04.github.io/reading-notes/101/sesion07)
 8. [Clase8](https://br4nd04.github.io/reading-notes/101/sesion08)
 9. [Clase9](https://br4nd04.github.io/reading-notes/101/sesion09)
-10. [Clase10](https://br4nd04.github.io/reading-notes/101/sesion010)
-11. [Clase11](https://br4nd04.github.io/reading-notes/101/sesion011)
+10. [Clase10](https://br4nd04.github.io/reading-notes/101/sesion10)
+11. [Clase11](https://br4nd04.github.io/reading-notes/101/sesion11)
 
 ## **Notas de lectura - Code 201** ##
 
