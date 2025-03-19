@@ -77,3 +77,4 @@ const negrita = texto => texto.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
 const italica = texto => texto.replace(/\*(.*?)\*/g, "<em>$1</em>");
 
 console.log(procesarTexto("Esto es **negrita** y *cursiva*", [negrita, italica]));
+```
